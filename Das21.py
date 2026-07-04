@@ -28,8 +28,8 @@ def classificar_nivel(pontuacao, tipo):
 
 #Como funciona
 def aplicar_formulario(perguntas):
-    print('\n' + '='*40)
-    print('Responds com  0 A 3')
+    print('='*40)
+    print('Responda com  0 A 3')
     print('='*40)
     print('0 = Não se aplicou de modo nenhum a mim')
     print('1 = Aplicou-se a mim algumas vezes')
