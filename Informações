@@ -1,2 +1,10 @@
 
->   **Aviso: Criei esse repositório em busca de entender melhor o uso da linguagem python, portanto a atividade DASS21 não substitui a procura de um médico especialista na área.**
+ ## AVISO
+> **Criei esse repositório em busca de entender melhor o uso da linguagem python, portanto a atividade DASS21 não substitui a procura de um médico especialista na área.**
+
+ DASS-21 foi criada pelos pesquisadores australianos Peter Lovibond e Sydney Lovibond em 1995.Eles são da Universidade de Nova Gales do Sul, na Austrália. A sigla significa Depression, Anxiety and Stress Scale (Escala de Depressão, Ansiedade e Estresse).
+O teste original tinha 42 perguntas. Os autores criaram a versão menor (com 21 perguntas) para facilitar e acelerar a aplicação clínica.O objetivo é medir a intensidade de sintomas como tristeza, tensão e medo durante a última semana.
+
+ ## OBJETIVO
+ Esse projeto foi um dos mais difíceis que já fiz, onde procurei usar as condições "while true e try-except" para tratar os erros de digitação de usuário (o que é bem comum), assim evitando a quebra do programa caso ele digite algum outro número, além de 0 ou 3.
+Também fiz um aninhamento das condições evitando usar vários 'if, elif e else'.Mantendo o código um pouco mais fácil de entender.
