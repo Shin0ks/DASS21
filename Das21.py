@@ -62,9 +62,9 @@ def calcular_e_exibir_resultados(respostas):
     print(f'Estresse:  {estresse:02d} | Nível: {classificar_nivel(estresse, "estresse")}')
     
 #Observação :)    
-    print('Este aplicativo não substitui um diagnóstico profissional.')
-    print('Em caso de dúvidas procure ajuda (188).')
-
+    print('Isso é apenas um simulado.')
+    print('Em caso de dúvidas procure um profissional da área.') 
+   
 
 # As 21 perguntas 
 list_perg = [
