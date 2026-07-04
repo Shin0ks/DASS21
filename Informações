@@ -7,4 +7,4 @@ O teste original tinha 42 perguntas. Os autores criaram a versão menor (com 21 
 
  ## OBJETIVO
  Esse projeto foi um dos mais difíceis que já fiz, onde procurei usar as condições "while true e try-except" para tratar os erros de digitação de usuário (o que é bem comum), assim evitando a quebra do programa caso ele digite algum outro número, além de 0 ou 3.
-Também fiz um aninhamento das condições evitando usar vários 'if, elif e else'.Mantendo o código um pouco mais fácil de entender.
+Também fiz um aninhamento das condições evitando usar vários 'if, elif e else', mantendo o código um pouco mais fácil de entender.
